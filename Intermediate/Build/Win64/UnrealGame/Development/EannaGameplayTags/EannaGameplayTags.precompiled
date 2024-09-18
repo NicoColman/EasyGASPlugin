@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\EannaGameplayTags\\EannaGameplayTags.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\EannaGameplayTags\\Tags_GAS.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\EannaGameplayTags\\Tags_Input.cpp.obj"
+	]
+}

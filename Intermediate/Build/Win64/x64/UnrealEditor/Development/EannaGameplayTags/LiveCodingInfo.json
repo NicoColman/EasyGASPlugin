@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EannaGameplayTags.cpp.obj": [
+			"EannaGameplayTags.init.gen.cpp.obj",
+			"Tags_BlueprintFunctionLibrary.gen.cpp.obj",
+			"EannaGameplayTags.cpp.obj",
+			"Tags_GAS.cpp.obj",
+			"Tags_Input.cpp.obj",
+			"Tags_BlueprintFunctionLibrary.cpp.obj",
+			"Tags_LogChannels.cpp.obj"
+		]
+	}
+}

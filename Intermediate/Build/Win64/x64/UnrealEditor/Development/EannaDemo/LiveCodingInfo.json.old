@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EannaDemo.cpp.obj": [
+			"Demo_AssetManager.gen.cpp.obj",
+			"Demo_Character.gen.cpp.obj",
+			"Demo_PlayerState.gen.cpp.obj",
+			"EannaDemo.init.gen.cpp.obj",
+			"GAS_AbilitySprint.gen.cpp.obj",
+			"Demo_Character.cpp.obj",
+			"Demo_PlayerState.cpp.obj",
+			"GAS_AbilitySprint.cpp.obj",
+			"Demo_AssetManager.cpp.obj",
+			"EannaDemo.cpp.obj"
+		]
+	}
+}

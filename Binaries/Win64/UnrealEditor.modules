@@ -1,0 +1,10 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"EannaDemo": "UnrealEditor-EannaDemo.dll",
+		"EannaGameplayAbilitySystem": "UnrealEditor-EannaGameplayAbilitySystem.dll",
+		"EannaGameplayTags": "UnrealEditor-EannaGameplayTags.dll",
+		"EannaInput": "UnrealEditor-EannaInput.dll"
+	}
+}

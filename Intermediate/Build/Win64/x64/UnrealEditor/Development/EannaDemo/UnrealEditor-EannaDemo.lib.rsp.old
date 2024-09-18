@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EannaDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Intermediate\Build\Win64\x64\EannaMMASEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\Module.EannaDemo.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\Demo_AssetManager.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\EannaDemo.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\Demo_Character.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\Demo_PlayerState.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\GAS_AbilitySprint.cpp.obj"
+"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\Default.rc2.res"
+/OUT:"C:\Users\nicol\OneDrive\Documentos\Unreal Projects\EannaMMAS\Plugins\EannaGameplayAbilitySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\EannaDemo\UnrealEditor-EannaDemo.lib"

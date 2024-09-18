@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\private\\input_dainputconfig.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\intermediate\\build\\win64\\x64\\eannammaseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eannainput\\definitions.eannainput.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\public\\input_dainputconfig.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\eannainput\\uht\\input_dainputconfig.generated.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\input_logchannels.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

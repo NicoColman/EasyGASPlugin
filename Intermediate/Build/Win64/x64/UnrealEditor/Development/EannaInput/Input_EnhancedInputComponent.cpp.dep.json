@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\private\\input_enhancedinputcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\intermediate\\build\\win64\\x64\\eannammaseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eannainput\\definitions.eannainput.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\public\\input_enhancedinputcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputcomponent.generated.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\source\\eannainput\\public\\input_dainputconfig.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\eannainput\\uht\\input_dainputconfig.generated.h",
+            "c:\\users\\nicol\\onedrive\\documentos\\unreal projects\\eannammas\\plugins\\eannagameplayabilitysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\eannainput\\uht\\input_enhancedinputcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

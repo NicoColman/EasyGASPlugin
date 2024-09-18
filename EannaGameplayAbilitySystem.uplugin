@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EannaGameplayAbilitySystem",
+	"Description": "Add in a quick and easy way GameplayAbilitySystem to your project with extra functionality. With  an already configure ASC, Inputs and GameplayTags.",
+	"Category": "Other",
+	"CreatedBy": "Eanna Entertainment",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EannaGameplayAbilitySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EannaGameplayTags",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "EannaInput",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "EannaDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
