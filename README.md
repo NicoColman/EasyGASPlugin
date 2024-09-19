@@ -151,6 +151,13 @@ With everything set up, you can now compile your project:
 
 - Open Unreal Engine, and compile the project either through the editor or via your preferred IDE (Visual Studio, Rider, etc.).
 
+### 6. Set Custom EnhancedInputComponent.
+
+Go to `Project Settings`>`Engine-Input` and in `DefaultInputComponentClass` change to the plugin custom class `Input_EnhancedInputComponent`
+
+![image](https://github.com/user-attachments/assets/bf4fa68d-1c08-4050-bbf6-b67443241f7c)
+
+
 ---
 
 ## Basic Setup in the Plugin
