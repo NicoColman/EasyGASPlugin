@@ -140,7 +140,7 @@ To finalize the setup, you'll need to add the **AbilitySystemGlobals** configura
 
    ```ini
    [/Script/GameplayAbilities.AbilitySystemGlobals]
-   +AbilitySystemGlobalsClassName="/Script/GASManager.GASAbilitySystemGlobals"
+   +AbilitySystemGlobalsClassName="/Script/EannaGameplayAbilitySystem.GAS_AbilitySystemGlobals"
    ```
 
 This step ensures that the **AbilitySystemGlobals** is properly initialized when your game starts.
